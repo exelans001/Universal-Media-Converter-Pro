@@ -27,8 +27,17 @@ If you want to view, modify, or compile the source code yourself:
 ### Prerequisites
 * Python 3.8 or higher installed on your system.
 
+## 📜 License & Credits
+UI Design & Core Logic by Alper A. / Kyuwar Games
+
+Powered by yt-dlp and FFmpeg
+
+Open-source and free to use.
+
 ### Installation
 1. Clone this repository or extract the provided ZIP file.
 ```bash
 git clone [https://github.com/yourusername/universal-media-converter.git](https://github.com/yourusername/universal-media-converter.git)
 cd universal-media-converter
+
+
